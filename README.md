@@ -25,7 +25,7 @@ This repository is for the paper under review in Journal of Biomedical Informati
 
 ## Directory Structure
 
-- `./00_data` directory contains input files
+- `./00_data` directory contains input files, such as ontologies and metadata
 - `./01_collect_corpus` directory contains scripts for collecting corpus
 - `./02_create_annotator` directory contains scripts for creating AD-specific annotators
 - `./03_process_annotation` directory contains scripts for processing annotations
