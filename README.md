@@ -25,14 +25,15 @@ This repository is for the paper under review in Journal of Biomedical Informati
 
 ## Directory Structure
 
-- `./00_data` directory contains input files, such as ontologies and metadata
-- `./01_collect_corpus` directory contains scripts for collecting corpus
-- `./02_create_annotator` directory contains scripts for creating AD-specific annotators
-- `./03_process_annotation` directory contains scripts for processing annotations
-- `./04_generate_graph` directory contains scripts for generating the AD knowledge graph
-- `./05_infer_knowledge` directory contains scripts for predicting putative links with graph embedding models
-- `./06_analyze_graph` directory contains scripts for analyzing graph statistics
-- `./07_analyze_predictions` directory contains scripts for analyzing outputs from link prediction models
+- `./00_data` directory contains ontologies and metadata
+- `./01_corpus` directory contains the list of pmids used in the study
+- `./02_collect_corpus` directory contains scripts for collecting corpus
+- `./03_create_annotator` directory contains scripts for creating AD-specific annotators
+- `./04_process_annotation` directory contains scripts for processing annotations
+- `./05_generate_graph` directory contains scripts for generating the AD knowledge graph
+- `./06_infer_knowledge` directory contains scripts for predicting putative links with graph embedding models
+- `./07_analyze_graph` directory contains scripts for analyzing graph statistics
+- `./08_analyze_predictions` directory contains scripts for analyzing outputs from link prediction models
 
 <!-- ## Usage
 1. Download the repo from [The Pathogen Annotator](https://github.com/READ-BioMed/readbiomed-pathogen-annotator)
