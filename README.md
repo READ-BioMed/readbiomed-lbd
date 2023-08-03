@@ -19,7 +19,6 @@ Please cite this article as: Y. Pu, D. Beck and K. Verspoor, Graph embedding-bas
 for literature-based discovery in Alzheimer’s Disease, Journal of Biomedical Informatics (2023),
 doi: https://doi.org/10.1016/j.jbi.2023.104464.
 
-> Authors: Yiyuan Pu, Daniel Beck, Karin Verspoor. 
 
 ## Prerequisites
 
